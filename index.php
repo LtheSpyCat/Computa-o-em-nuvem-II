@@ -14,10 +14,11 @@ function stringParaBinario ($string){
 
 }
 // Exemplo de uso
-$frase = "Douglas Antonucci Panobianco";
+$frase = "Daniel Teodoro Borba Santos";
 $fraseBinario = stringParaBinario($frase);
 
 // Exibindo a frase original e sua versão binária
 echo "Frase original: " . $frase . "<br>";
 echo "Frase em binário: " . $fraseBinario; 
+
 ?>
